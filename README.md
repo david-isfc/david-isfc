@@ -51,11 +51,5 @@
 ---
 
 <p align="center">
-  <em>I like oscilloscopes, logic analyzers, and systems that fail in interesting ways.</em>
-</p>
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUR_GITHUB_USERNAME&layout=compact&theme=gruvbox" height="140"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=david-isfc&layout=compact&theme=gruvbox" height="140"/>
 </p>
