@@ -1,4 +1,4 @@
-<h1 align="center">David Georgian Iosifescu</h1>
+<h1 align="center">David Iosifescu</h1>
 
 <p align="center">
   <strong>MSc Systems, Control & Robotics · Embedded Systems · Robotics</strong><br/>
